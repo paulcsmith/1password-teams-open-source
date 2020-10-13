@@ -771,3 +771,7 @@ https://github.com/tinkerbell
 ### Mumble
 Mumble is a free, open source, low latency, high quality voice chat application.
 https://www.mumble.info
+
+### Lucky
+Lucky is a web framework written in Crystal. It helps you work quickly, catch bugs at compile time, and deliver blazing fast responses.
+https://www.luckyframework.org
